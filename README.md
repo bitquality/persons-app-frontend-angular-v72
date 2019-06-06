@@ -2,12 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
-
 # Playing at Heroku
+
 After idle for a while, Heroku falls asleep and internal memory is reseted.
-- https://persons-app.herokuapp.com
+
+- https://persons-app.herokuapp.com/
 
 # Heroku tips
+
 heroku create
 
 heroku git:remote -a your_app_name_just_created
@@ -17,8 +19,6 @@ git push heroku master
 heroku open
 
 heroku logs
-
-> More Angular-Heroku configuration [here]
 
 # Playing Localy
 
@@ -48,6 +48,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Angular CLI commands
 
-Create angular workspace/folder, initial app and init git - ng new angular-tour-of-heroes
+Create angular workspace/folder, initial app and init git - ng new persons-app-v7
+
 Build and open browser - ng serve --open
-Create a new component called heroes- ng generate component heroes
+
+Create a new component called persons-list- ng generate component persons-list
