@@ -1,4 +1,4 @@
-# Angular Tour Of Heroes
+# Persons App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
@@ -18,8 +18,7 @@ heroku open
 
 heroku logs
 
-> More Angular-Heroku configuration [here](https://medium.com/@shubhsharma10/how-to-deploy-angular-6-app-to-heroku-52b73ac7a3aa).
-
+> More Angular-Heroku configuration [here]
 
 # Playing Localy
 
