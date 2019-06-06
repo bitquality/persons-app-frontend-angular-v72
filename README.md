@@ -6,6 +6,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - https://persons-app.herokuapp.com/
 
+# Playing with Persons Service App
+
+- https://bmo-persons-app-mw.herokuapp.com/api/persons/v1/all
+
+- https://bmo-persons-app-mw.herokuapp.com/api/persons/v1/add
+
+Sample:
+
+{
+	"firstName": "Krishna",
+	"lastName": "Mullapudi"
+}
+
 # Heroku tips
 
 heroku create
