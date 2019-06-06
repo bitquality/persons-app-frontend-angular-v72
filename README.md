@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - https://bmo-persons-app-mw.herokuapp.com/api/persons/v1/add
 
-Sample:
+Sample POST Request body:
 
 {
 	"firstName": "Krishna",
