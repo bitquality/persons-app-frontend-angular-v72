@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class PersonService {
   // private serviceBaseUrl = 'http://localhost:8090/'; // local url
-  private serviceBaseUrl = 'https://persons-app-middleware.herokuapp.com/'; // heroku url
+  private serviceBaseUrl = 'https://persons-app-middleware.herokuapp.com'; // heroku url
   simpleHttpOptions: any;
 
   constructor(private http: HttpClient) {
