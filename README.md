@@ -4,8 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Playing at Heroku
 
-After idle for a while, Heroku falls asleep and internal memory is reseted.
-
 - https://persons-app.herokuapp.com/
 
 # Heroku tips
