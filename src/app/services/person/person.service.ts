@@ -19,8 +19,6 @@ export class PersonService {
     };
   }
 
-  // https://bmo-persons-app-mw.herokuapp.com/api/persons/v1/all
-  // https://bmo-persons-app-mw.herokuapp.com/api/persons/v1/add
 
   getPersons(): Observable<IPerson[]> {
     return this.http.get<IPerson[]>(
